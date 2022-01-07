@@ -40,13 +40,10 @@ headers:
 
 
 Handling Request
-• Using Configuration.RootPath, map the URI to 
-the physical path
-– Example: configuration.RootPath= 
-“c:\intepub\wwwroot\fcis1” and URI = 
-“/aboutus.html” then physical path= 
-“c:\intepub\wwwroot\fcis1\aboutus.html”
-Redirection
+• Using Configuration.RootPath, map the URI to the physical path
+– Example: configuration.RootPath = “X:\Visual Studio 2019\HTTPserver\\intepub\wwwroot\fcis1” and URI = “/aboutus.html”
+
+Physical-Path = “\aboutus.html”  ==>  Redirection-To = "\aboutus2.html"
 
 
 
@@ -84,11 +81,15 @@ static page “InternalError.html”
 Project Running => SERVER DEMO
 • Run the server
 • Try the following URIs in the web browser:
+
 http://localhost:1000/aboutus2.html
 should display aboutus2.html page
+
 http://localhost:1000/aboutus.html
 should display aboutus2.html (redirection)
+
 http://localhost:1000/main.html
 should display main page
+
 http://localhost:1000/blabla.html
 should display 404 page
