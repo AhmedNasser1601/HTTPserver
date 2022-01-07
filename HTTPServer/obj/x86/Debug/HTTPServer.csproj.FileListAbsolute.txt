@@ -1,0 +1,37 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\college\3\1\Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\moon tech\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Ahmed Nasser\Downloads\Network Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Network ReadyProj\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Network ReadyProj\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Network ReadyProj\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Network ReadyProj\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Network ReadyProj\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Network ReadyProj\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Network ReadyProj\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Network ReadyProj\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+X:\Visual Studio 2019\HTTPserver\HTTPServer\bin\Debug\HTTPServer.exe.config
+X:\Visual Studio 2019\HTTPserver\HTTPServer\bin\Debug\HTTPServer.exe
+X:\Visual Studio 2019\HTTPserver\HTTPServer\bin\Debug\HTTPServer.pdb
+X:\Visual Studio 2019\HTTPserver\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+X:\Visual Studio 2019\HTTPserver\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2019\HTTPserver\HTTPServer\obj\x86\Debug\HTTPServer.exe
+X:\Visual Studio 2019\HTTPserver\HTTPServer\obj\x86\Debug\HTTPServer.pdb
